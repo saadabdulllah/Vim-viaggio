@@ -1,6 +1,6 @@
 # Vim-viaggio
 ~Vim is case sensitive, so It matters.~
-
+a[vimGenious] http://www.vimgenius.com/
 in Terminal: 
 > vimtutor
 
