@@ -1,7 +1,8 @@
 # Vim-viaggio
 ~Vim is case sensitive, so It matters.~
 
-in Terminal: > vimtutor
+in Terminal: 
+> vimtutor
 
 ## Cursor movement word by word
 #### cursor at End of the line: `$`
