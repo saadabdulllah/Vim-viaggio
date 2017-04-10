@@ -19,6 +19,7 @@ in Terminal:
 
 ## Deleting 
 #### delete whole line: `dd`
+#### Delete character at cursor:`x`
 
 
 
